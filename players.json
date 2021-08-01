@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Rohit Sharma (R)",
+    "amount": 150000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Anmolpreet Singh (R)",
+    "amount": 8000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Ankul Roy (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Sherfane Rutherford (R)",
+    "amount": 20000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Suryakumar Yadav (R)",
+    "amount": 32000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Chris Lynn",
+    "amount": 20000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Saurabh Tiwary",
+    "amount": 5000000,
+    "role": "Batsman",
+    "label": "MI"
+  },
+  {
+    "name": "Aditya Tare (R)",
+    "amount": 2000000,
+    "role": "Wicket Keeper",
+    "label": "MI"
+  },
+  {
+    "name": "Ishan Kishan (R)",
+    "amount": 62000000,
+    "role": "Wicket Keeper",
+    "label": "MI"
+  },
+  {
+    "name": "Quinton de Kock (R)",
+    "amount": 28000000,
+    "role": "Wicket Keeper",
+    "label": "MI"
+  },
+  {
+    "name": "Hardik Pandya (R)",
+    "amount": 110000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Kieron Pollard (R)",
+    "amount": 54000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Krunal Pandya (R)",
+    "amount": 88000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Rahul Chahar (R)",
+    "amount": 19000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Digvijay Deshmukh",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Prince Balwant Rai Singh",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "MI"
+  },
+  {
+    "name": "Dhawal Kulkarni (R)",
+    "amount": 7500000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Jasprit Bumrah (R)",
+    "amount": 70000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Jayant Yadav (R)",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Lasith Malinga (R)",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Mitchell McClenaghan (R)",
+    "amount": 10000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Trent Boult (R)",
+    "amount": 32000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Nathan Coulter-Nile",
+    "amount": 80000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Mohsin Khan",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "MI"
+  },
+  {
+    "name": "Shreyas Iyer (R)",
+    "amount": 70000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Ajinkya Rahane (R)",
+    "amount": 52500000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Avesh Khan (R)",
+    "amount": 7000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Keemo Paul (R)",
+    "amount": 5000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Prithvi Shaw (R)",
+    "amount": 12000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Shikhar Dhawan (R)",
+    "amount": 52000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Shimron Heymyer",
+    "amount": 77500000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Jason Roy",
+    "amount": 15000000,
+    "role": "Batsman",
+    "label": "DC"
+  },
+  {
+    "name": "Rishabh Pant (R)",
+    "amount": 150000000,
+    "role": "Wicket Keeper",
+    "label": "DC"
+  },
+  {
+    "name": "Alex Carey",
+    "amount": 24000000,
+    "role": "Wicket Keeper",
+    "label": "DC"
+  },
+  {
+    "name": "Marcus Stoinis",
+    "amount": 48000000,
+    "role": "All-Rounder",
+    "label": "DC"
+  },
+  {
+    "name": "Lalit Yadav",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "DC"
+  },
+  {
+    "name": "Chris Woakes",
+    "amount": 15000000,
+    "role": "All-Rounder",
+    "label": "DC"
+  },
+  {
+    "name": "Ravichandran Ashwin (R)",
+    "amount": 76000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Sandeep Lamichhane (R)",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Axax Patel (R)",
+    "amount": 50000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Harshal Patel (R)",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Ishant Sharma (R)",
+    "amount": 11000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Kagiso Rabada (R)",
+    "amount": 42000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Mohit Sharma",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Tushar Deshpande",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Amit Mishra (R)",
+    "amount": 40000000,
+    "role": "Bowler",
+    "label": "DC"
+  },
+  {
+    "name": "Karun Nair (R)",
+    "amount": 56000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Arshdeep Singh (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Chris Gayle (R)",
+    "amount": 20000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Darshan Nalkande (R)",
+    "amount": 3000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Gowtham Krishnappa (R)",
+    "amount": 62000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Hardus Viljoen (R)",
+    "amount": 7500000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Harpreet Brar (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Mayank Agarwal (R)",
+    "amount": 10000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Nicholas Pooran (R)",
+    "amount": 42000000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Sarfaraz Khan (R)",
+    "amount": 2500000,
+    "role": "Batsman",
+    "label": "KXIP"
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "amount": 5500000,
+    "role": "Wicket Keeper",
+    "label": "KXIP"
+  },
+  {
+    "name": "KL Rahul (R)",
+    "amount": 110000000,
+    "role": "Wicket Keeper",
+    "label": "KXIP"
+  },
+  {
+    "name": "Mandeep Singh (R)",
+    "amount": 14000000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "Glenn Maxwell",
+    "amount": 107500000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "Chris Jordan",
+    "amount": 30000000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "Deepak Hooda",
+    "amount": 5000000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "James Neesham",
+    "amount": 5000000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "Tajinder Dhillon",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "KXIP"
+  },
+  {
+    "name": "Ishan Patel",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Jagadeesha Suchith (R)",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Mohammad Shami (R)",
+    "amount": 48000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Sheldon Cottrell",
+    "amount": 85000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Murugan Ashwin (R)",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KXIP"
+  },
+  {
+    "name": "Andre Russell (R)",
+    "amount": 85000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Harry Gurney (R)",
+    "amount": 7500000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Kamlesh Nagarkoti (R)",
+    "amount": 32000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Lockie Ferguson (R)",
+    "amount": 16000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Nitish Rana (R)",
+    "amount": 34000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Prasidh Krishna (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Rinku Singh (R)",
+    "amount": 8000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Shubham Gill (R)",
+    "amount": 18000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Siddhesh Lad (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Eoin Morgan",
+    "amount": 52500000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Tom Banton",
+    "amount": 10000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Rahul Tripathi",
+    "amount": 6000000,
+    "role": "Batsman",
+    "label": "KKR"
+  },
+  {
+    "name": "Dinesh Karthik (R)",
+    "amount": 74000000,
+    "role": "Wicket Keeper",
+    "label": "KKR"
+  },
+  {
+    "name": "Nikhil Shankar Naik",
+    "amount": 2000000,
+    "role": "Wicket Keeper",
+    "label": "KKR"
+  },
+  {
+    "name": "Sunil Narine (R)",
+    "amount": 125000000,
+    "role": "All-Rounder",
+    "label": "KKR"
+  },
+  {
+    "name": "Pat Cummins",
+    "amount": 155000000,
+    "role": "All-Rounder",
+    "label": "KKR"
+  },
+  {
+    "name": "Shivam Mavi (R)",
+    "amount": 30000000,
+    "role": "All-Rounder",
+    "label": "KKR"
+  },
+  {
+    "name": "Varun Chakaravarthy",
+    "amount": 40000000,
+    "role": "All-Rounder",
+    "label": "KKR"
+  },
+  {
+    "name": "Chris Green",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "KKR"
+  },
+  {
+    "name": "Kuldeep Yadav (R)",
+    "amount": 58000000,
+    "role": "Bowler",
+    "label": "KKR"
+  },
+  {
+    "name": "Sandeep Warrier (R)",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KKR"
+  },
+  {
+    "name": "Pravin Tambe",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KKR"
+  },
+  {
+    "name": "M Siddharth",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "KKR"
+  },
+  {
+    "name": "Riyan Parag (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "Shashank Singh (R)",
+    "amount": 3000000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "Steve Smith (R)",
+    "amount": 125000000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "Robin Uthappa",
+    "amount": 30000000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "David Miller",
+    "amount": 7500000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "Manan Vohra (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "RR"
+  },
+  {
+    "name": "Jos Butler (R)",
+    "amount": 44000000,
+    "role": "Wicket Keeper",
+    "label": "RR"
+  },
+  {
+    "name": "Sanju Samson (R)",
+    "amount": 80000000,
+    "role": "Wicket Keeper",
+    "label": "RR"
+  },
+  {
+    "name": "Anuj Rawat",
+    "amount": 8000000,
+    "role": "Wicket Keeper",
+    "label": "RR"
+  },
+  {
+    "name": "Ben Stokes (R)",
+    "amount": 125000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Mahipal Lmoror (R)",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Shreyas Gopal (R)",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "amount": 24000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Tom Curran",
+    "amount": 10000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Ankit Rajpoot (R)",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Jofra Archer (R)",
+    "amount": 72000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Mayank Markande (R)",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Rahul Tweatia (R)",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Varun Aaron (R)",
+    "amount": 24000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Kartik Tyagi",
+    "amount": 13000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Andrew Tye",
+    "amount": 10000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Oshane Thomas",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Anirudha Ashok Joshi",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "RR"
+  },
+  {
+    "name": "Akash Singh",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "RR"
+  },
+  {
+    "name": "Virat Kohli (R)",
+    "amount": 170000000,
+    "role": "Batsman",
+    "label": "RCB"
+  },
+  {
+    "name": "AB de Villiers (R)",
+    "amount": 110000000,
+    "role": "Batsman",
+    "label": "RCB"
+  },
+  {
+    "name": "Devdutt Padikkal (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "RCB"
+  },
+  {
+    "name": "Gurkeerat Singh (R)",
+    "amount": 5000000,
+    "role": "Batsman",
+    "label": "RCB"
+  },
+  {
+    "name": "Aaron Finch",
+    "amount": 44000000,
+    "role": "Batsman",
+    "label": "RCB"
+  },
+  {
+    "name": "Shahbaz Ahamad",
+    "amount": 2000000,
+    "role": "Wicket Keeper",
+    "label": "RCB"
+  },
+  {
+    "name": "Joshua Philippe",
+    "amount": 2000000,
+    "role": "Wicket Keeper",
+    "label": "RCB"
+  },
+  {
+    "name": "Pathiv Patel (R)",
+    "amount": 17000000,
+    "role": "Wicket Keeper",
+    "label": "RCB"
+  },
+  {
+    "name": "Pawan Negi (R)",
+    "amount": 10000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Shivam Dube (R)",
+    "amount": 50000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Moeen Ali (R)",
+    "amount": 17000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Isuru Udana",
+    "amount": 5000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Pavan Deshpande",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Christopher Morris",
+    "amount": 100000000,
+    "role": "All-Rounder",
+    "label": "RCB"
+  },
+  {
+    "name": "Kane Richardson",
+    "amount": 40000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Dale Steyn",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Mohammaed Siraj (R)",
+    "amount": 26000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Navdeep Saini (R)",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Umesh Yadav (R)",
+    "amount": 42000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Washington Sundar (R)",
+    "amount": 32000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Yuzvendra Chahal (R)",
+    "amount": 60000000,
+    "role": "Bowler",
+    "label": "RCB"
+  },
+  {
+    "name": "Kane Williamson",
+    "amount": 30000000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "Abhishek Sharma (R)",
+    "amount": 5500000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "David Warner (R)",
+    "amount": 125000000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "Manish Pandey (R)",
+    "amount": 110000000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "Priyam Garg",
+    "amount": 19000000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "Virat Singh",
+    "amount": 19000000,
+    "role": "Batsman",
+    "label": "SRH"
+  },
+  {
+    "name": "Jonny Bairstow (R)",
+    "amount": 22000000,
+    "role": "Wicket Keeper",
+    "label": "SRH"
+  },
+  {
+    "name": "Shreevats Goswami (R)",
+    "amount": 10000000,
+    "role": "Wicket Keeper",
+    "label": "SRH"
+  },
+  {
+    "name": "Wridhhiman Saha (R)",
+    "amount": 12000000,
+    "role": "Wicket Keeper",
+    "label": "SRH"
+  },
+  {
+    "name": "Vijay Shankar (R)",
+    "amount": 32000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Mitchell Marsh",
+    "amount": 20000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Mohammad Nabi (R)",
+    "amount": 10000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Fabian Allen",
+    "amount": 5000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Sandeep Bavanaka",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Sanjay Yadav",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Abdul Samad",
+    "amount": 2000000,
+    "role": "All-Rounder",
+    "label": "SRH"
+  },
+  {
+    "name": "Basil Thampi (R)",
+    "amount": 9500000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Bhuvneshwar Kumar (R)",
+    "amount": 85000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Billy Stanlake (R)",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Rashid Khan (R)",
+    "amount": 90000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Sandeep Sharma (R)",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Shahbaz Nadeem (R)",
+    "amount": 32000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Siddarth Kaul (R)",
+    "amount": 38000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Syed Khaleel Ahmed (R)",
+    "amount": 30000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "T Natarajan (R)",
+    "amount": 4000000,
+    "role": "Bowler",
+    "label": "SRH"
+  },
+  {
+    "name": "Ambati Rayadu (R)",
+    "amount": 22000000,
+    "role": "Batsman",
+    "label": "CSK"
+  },
+  {
+    "name": "Monu Singh (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "CSK"
+  },
+  {
+    "name": "Murali Vijay (R)",
+    "amount": 20000000,
+    "role": "Batsman",
+    "label": "CSK"
+  },
+  {
+    "name": "Ruturaj Gaikwad (R)",
+    "amount": 2000000,
+    "role": "Batsman",
+    "label": "CSK"
+  },
+  {
+    "name": "Suresh Raine (R)",
+    "amount": 110000000,
+    "role": "Batsman",
+    "label": "CSK"
+  },
+  {
+    "name": "MS Dhoni (R)",
+    "amount": 150000000,
+    "role": "Wicket Keeper",
+    "label": "CSK"
+  },
+  {
+    "name": "Jagadeesan Narayan (R)",
+    "amount": 2000000,
+    "role": "Wicket Keeper",
+    "label": "CSK"
+  },
+  {
+    "name": "Asif K M (R)",
+    "amount": 4000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Dwayne Bravo (R)",
+    "amount": 64000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Faf du Plessis (R)",
+    "amount": 16000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Karn Sharma (R)",
+    "amount": 50000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Kedar Jadhav (R)",
+    "amount": 78000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Ravindra jadeja (R)",
+    "amount": 70000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Shane Watson (R)",
+    "amount": 40000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Sam Curran",
+    "amount": 55000000,
+    "role": "All-Rounder",
+    "label": "CSK"
+  },
+  {
+    "name": "Deepak Chahar (R)",
+    "amount": 8000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Harbhajan Singh (R)",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Imran Tahir (R)",
+    "amount": 10000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Lungisani Ngidi (R)",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Mitchell Santner (R)",
+    "amount": 5000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Shardul Thakur (R)",
+    "amount": 26000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Piyush Chawla",
+    "amount": 67500000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "Josh Hazlewood",
+    "amount": 20000000,
+    "role": "Bowler",
+    "label": "CSK"
+  },
+  {
+    "name": "R. Sai Kishore",
+    "amount": 2000000,
+    "role": "Bowler",
+    "label": "CSK"
+  }
+]

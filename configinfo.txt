@@ -1,0 +1,2 @@
+team-service   : 8081 [teams]
+player-service : 8082 [players]

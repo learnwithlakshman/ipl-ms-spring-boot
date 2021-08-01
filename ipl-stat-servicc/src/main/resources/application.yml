@@ -1,0 +1,1 @@
+server:  port: ${port:8083}  servlet:    context-path: /teamstatspring:  application:    name: team-stateureka:  client:    register-with-eureka: true    fetch-registry: true    service-url:      defaultZone: http://localhost:8761/eureka/  instance:     hostname: localhost    

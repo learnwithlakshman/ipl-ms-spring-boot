@@ -1,0 +1,34 @@
+server:
+  port: ${port:8085}
+  
+
+spring:
+  application:
+    name: ipl-api-gateway
+  cloud:    gateway:
+      globalcors:
+         corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods: "*"
+            allowedHeaders: "authorization"
+      routes:      - id: team-service
+        uri: lb://TEAM-SERVICE
+        predicates:         - Path=/teams/**
+      - id: player-service
+        uri: lb://PLAYER-SERVICE
+        predicates:
+         - Path=/players/**
+      - id: team-stat
+        uri: lb://TEAM-STAT
+        predicates:
+         - Path=/teamstat/**
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+     hostname: localhost
+    
